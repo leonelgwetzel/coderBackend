@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Producto 2 Actualizado",
+    "description": "Este es un producto prueba2",
+    "price": 250,
+    "thumbnail": "test.jpg",
+    "code": "a123cb",
+    "stock": 15,
+    "id": 2
+  },
+  {
+    "title": "producto prueba3",
+    "description": "Este es un producto prueba3",
+    "price": 400,
+    "thumbnail": "test.jpg",
+    "code": "xvb232",
+    "stock": 40,
+    "id": 3
+  },
+  {
+    "title": "producto prueba4",
+    "description": "Este es un producto prueba4",
+    "price": 500,
+    "thumbnail": "test.jpg",
+    "code": "xre231",
+    "stock": 1,
+    "id": 4
+  }
+]
